@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PertemuanPemograman", "Pert
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Latihan1", "Latihan1\Latihan1.vcxproj", "{659D072E-466B-4478-9894-7E0295474D3A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "latihan2", "latihan2\latihan2.vcxproj", "{2E3898E2-3310-4D68-9FC6-5A4F7CC00290}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{659D072E-466B-4478-9894-7E0295474D3A}.Release|x64.Build.0 = Release|x64
 		{659D072E-466B-4478-9894-7E0295474D3A}.Release|x86.ActiveCfg = Release|Win32
 		{659D072E-466B-4478-9894-7E0295474D3A}.Release|x86.Build.0 = Release|Win32
+		{2E3898E2-3310-4D68-9FC6-5A4F7CC00290}.Debug|x64.ActiveCfg = Debug|x64
+		{2E3898E2-3310-4D68-9FC6-5A4F7CC00290}.Debug|x64.Build.0 = Debug|x64
+		{2E3898E2-3310-4D68-9FC6-5A4F7CC00290}.Debug|x86.ActiveCfg = Debug|Win32
+		{2E3898E2-3310-4D68-9FC6-5A4F7CC00290}.Debug|x86.Build.0 = Debug|Win32
+		{2E3898E2-3310-4D68-9FC6-5A4F7CC00290}.Release|x64.ActiveCfg = Release|x64
+		{2E3898E2-3310-4D68-9FC6-5A4F7CC00290}.Release|x64.Build.0 = Release|x64
+		{2E3898E2-3310-4D68-9FC6-5A4F7CC00290}.Release|x86.ActiveCfg = Release|Win32
+		{2E3898E2-3310-4D68-9FC6-5A4F7CC00290}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
