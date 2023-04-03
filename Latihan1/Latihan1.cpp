@@ -6,3 +6,7 @@ struct AlamatDetail {
 	string kota;
 	string desa;
 };
+
+struct mahasiswa {
+
+};
