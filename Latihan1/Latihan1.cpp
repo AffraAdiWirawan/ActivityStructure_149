@@ -28,4 +28,10 @@ int main() {
 	cin >> mhs.alamat.kota;
 	cout << " Masukkan Umur = ";
 	cin >> mhs.umur;
+
+	cout << "\nNIM = " << mhs.NIM;
+	cout << "\nNama = " << mhs.nama;
+	cout << "\nDesa  = " << mhs.alamat.desa;
+	cout << "\nKota = " << mhs.alamat.kota;
+	cout << "\nUmur = " << mhs.umur;
 }
