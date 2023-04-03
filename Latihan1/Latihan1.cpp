@@ -3,5 +3,6 @@
 using namespace std;
 
 struct AlamatDetail {
-	
+	string kota;
+	string desa;
 };
